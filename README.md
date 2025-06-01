@@ -38,6 +38,10 @@ Output:
 - Prints scan progress and vulnerabilities found
 - Saves report to `htmli_report.json`
 
+Demo Video
+🎬 [Watch the HTMLiHunter Demo on YouTube](https://youtu.be/vZzh86E6XA0)
+
+
 License:
 --------
 MIT License (see LICENSE file or https://opensource.org/licenses/MIT)
