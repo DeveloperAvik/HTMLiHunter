@@ -1,4 +1,3 @@
-"""
 HTMLiHunter - Advanced HTML Injection Scanner
 =============================================
 
@@ -50,7 +49,6 @@ Use only on targets you have permission to test.
 Contact:
 --------
 Developed by Your Name
-Email: your.email@example.com
+Email: developeravikdas@gmail.com
 
 Happy hunting! 🐛🔍
-"""
