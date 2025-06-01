@@ -17,7 +17,7 @@ Installation:
 1. Ensure Python 3.7+ is installed.
 2. Install dependencies with:
 
-   pip install requests beautifulsoup4 selenium colorama lxml
+   pip install -r requirements.txt --break-system-packages (If you using Debian)
 
 3. Download ChromeDriver from:
    https://chromedriver.chromium.org/
@@ -27,11 +27,11 @@ Usage:
 ------
 Run the scanner on a target URL:
 
-    python htmlihunter.py "https://example.com/search?query=test"
+    python exploit.py "https://example.com/search?query=test"
 
 With custom payloads (one per line in payloads.txt):
 
-    python htmlihunter.py "https://example.com/search?query=test" --payloads payloads.txt
+    python exploit.py "https://example.com/search?query=test" --payloads payloads.txt
 
 Output:
 -------
