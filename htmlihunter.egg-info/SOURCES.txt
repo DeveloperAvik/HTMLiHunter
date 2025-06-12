@@ -1,0 +1,8 @@
+README.md
+setup.py
+htmlihunter.egg-info/PKG-INFO
+htmlihunter.egg-info/SOURCES.txt
+htmlihunter.egg-info/dependency_links.txt
+htmlihunter.egg-info/entry_points.txt
+htmlihunter.egg-info/requires.txt
+htmlihunter.egg-info/top_level.txt
